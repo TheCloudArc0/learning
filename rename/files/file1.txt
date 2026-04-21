@@ -1,0 +1,4 @@
+file.txt
+go.mod
+main.go
+program

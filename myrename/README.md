@@ -1,0 +1,1 @@
+this application does a bulk rename for files and and folders in the current directory.
